@@ -20,3 +20,5 @@ If you are new to React, or if you've been working to learn it but sometimes fee
 * Build on both Android and iOS platforms
 * Master integration with Firebase for user authentication
 * Learn the core principles of navigation with React Native
+
+Course available at https://www.udemy.com/the-complete-react-native-and-redux-course/learn/v4/overview
